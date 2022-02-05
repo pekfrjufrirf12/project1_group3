@@ -1,1 +1,1 @@
-# project1_group3
+# UMN Fintech Project 1 - Group 3
