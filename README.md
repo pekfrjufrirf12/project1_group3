@@ -1,4 +1,5 @@
-# UMN Fintech Project 1 - Group 3
+# Effects of Climate on Crop Economics in Top Cocoa-Producing Countries
+## UMN Fintech Project 1 - Group 3
 ## Dan Prieto, Erin Rahman, Tyler Hubbard
 
 ### Current project proposal:
