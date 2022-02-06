@@ -13,7 +13,7 @@ https://docs.google.com/document/d/1kv8oNWL4psW9GVQC8oB9filG8Qxrte0G6yAVZCeb1qo/
 #### 1. Varying climate in these countries – What is the correlation between the adoption of farmers’ financial climate change adaptation strategies by region (and crop production/failure rates?)
 #### 2. Varying production in these countries (prices, volume, quality, condition, and other market data) – compare and contrast, gather correlation data
 #### 3. What is the impact of climate-induced supply shock to cocoa production in top cocoa-producing countries (Ecuador, Ghana, Cameroon, Nigeria, Côte D’Ivoire) on capital balance, GDP, agricultural investment, and food instability?
-#### 4. How climate impacts production and local economics as a result (as well as the degree of correlation between datasets) – All three of us
+#### 4. How climate impacts production and local economics as a result (as well as the degree of correlation between datasets)
 
 
 ### Relevant links:
