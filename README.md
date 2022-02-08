@@ -19,6 +19,7 @@ https://docs.google.com/document/d/1kv8oNWL4psW9GVQC8oB9filG8Qxrte0G6yAVZCeb1qo/
 ### Relevant links:
 #### (APIs) https://github.com/KKulma/climate-change-data
 #### (APIs) https://gro-intelligence.com/platform/api
+#### (Dataset) https://ourworldindata.org/agricultural-production#cocoa-coffee-tea-and-tobacco
 #### (Dataset) https://www.statista.com/statistics/263855/cocoa-bean-production-worldwide-by-region/#:~:text=About%2070%20percent%20of%20the,the%20world%C2%B4s%20cocoa
 #### (Dataset) https://www.trade.gov/country-commercial-guides/cote-divoire-agricultural-sector#:~:text=C%C3%B4te%20d'Ivoire%20is%20a,rice%20importer%20in%20the%20world
 #### (Dataset) https://www.trade.gov/data
